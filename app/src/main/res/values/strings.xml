@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiChecker</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="wifi_on">Wifi On</string>
+    <string name="discover">Discover</string>
+    <string name="message">message</string>
+    <string name="send">Send</string>
+</resources>
